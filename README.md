@@ -17,9 +17,12 @@
 
 #Subir contract al blockchain
 
-- Ejecutar con node upload.js
+- Actualizar Puerto de Ganache y una cuenta emisor
+- node upload.js
+- Guardar address de contrato
 
 #Probar
 
+- Actualizar Address de contrato, ABI y puerto
 - Ejecutar index.html
 - En Ganache se verá en tiempo real el funcionamiento
